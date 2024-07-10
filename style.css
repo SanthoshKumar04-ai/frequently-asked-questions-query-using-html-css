@@ -1,0 +1,12 @@
+.section{
+    position: relative;
+    top: 100px;
+}
+.col-5{
+    border: 1px solid black;
+    background-color: beige;
+    padding: 15px;
+}
+.su{
+    list-style: none;
+}
